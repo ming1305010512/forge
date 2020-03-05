@@ -1,0 +1,12 @@
+item.goldenEgg.name=Golden Egg
+tile.grassBlock.name=Grass Block
+itemGroup.fmltutor=FML Tutor
+item.redstonePickaxe.name=Redstone Pickaxe
+item.redstoneApple.name=Redstone Apple
+item.redstoneHelmet.name=Redstone Helmet
+item.redstoneChestplate.name=Redstone Chestplate
+item.redstoneLeggings.name=Redstone Leggings
+item.redstoneBoots.name=Redstone Boots
+death.attack.byPig=%s was dead because of a pig!
+enchantment.fireBurn=Fire Burning
+potion.fallProtection=Fall Protection
